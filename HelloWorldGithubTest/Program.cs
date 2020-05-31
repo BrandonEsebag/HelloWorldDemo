@@ -17,11 +17,14 @@ namespace HelloWorldGithubTest
         }
         static async void MainAsync()
         {
+            int StringLength;
+
             var httpClient = new HttpClient();
             var ip = await httpClient.GetStringAsync("https://api.myip.com/");
             ip = ip.Replace("{\"ip\":\"", "Your IP Adress is ");
             ip = ip.Replace("\",\"country\":\""," and falls within (the) ");
-            ip = ip.Substring(0, ip.Length - 12);
+            StringLength = ip.IndexOf("\",\"cc\":");
+            ip = ip.Substring(0, StringLength);
             Console.WriteLine(ip);
         }
     }
