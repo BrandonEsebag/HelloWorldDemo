@@ -1,0 +1,11 @@
+C:\Users\Brandon\Desktop\S\CodeDemo\HelloWorldGithubTest\HelloWorldGithubTest\bin\Debug\netcoreapp2.1\HelloWorldGithubTest.deps.json
+C:\Users\Brandon\Desktop\S\CodeDemo\HelloWorldGithubTest\HelloWorldGithubTest\bin\Debug\netcoreapp2.1\HelloWorldGithubTest.runtimeconfig.json
+C:\Users\Brandon\Desktop\S\CodeDemo\HelloWorldGithubTest\HelloWorldGithubTest\bin\Debug\netcoreapp2.1\HelloWorldGithubTest.runtimeconfig.dev.json
+C:\Users\Brandon\Desktop\S\CodeDemo\HelloWorldGithubTest\HelloWorldGithubTest\bin\Debug\netcoreapp2.1\HelloWorldGithubTest.dll
+C:\Users\Brandon\Desktop\S\CodeDemo\HelloWorldGithubTest\HelloWorldGithubTest\bin\Debug\netcoreapp2.1\HelloWorldGithubTest.pdb
+C:\Users\Brandon\Desktop\S\CodeDemo\HelloWorldGithubTest\HelloWorldGithubTest\obj\Debug\netcoreapp2.1\HelloWorldGithubTest.csprojAssemblyReference.cache
+C:\Users\Brandon\Desktop\S\CodeDemo\HelloWorldGithubTest\HelloWorldGithubTest\obj\Debug\netcoreapp2.1\HelloWorldGithubTest.csproj.CoreCompileInputs.cache
+C:\Users\Brandon\Desktop\S\CodeDemo\HelloWorldGithubTest\HelloWorldGithubTest\obj\Debug\netcoreapp2.1\HelloWorldGithubTest.AssemblyInfoInputs.cache
+C:\Users\Brandon\Desktop\S\CodeDemo\HelloWorldGithubTest\HelloWorldGithubTest\obj\Debug\netcoreapp2.1\HelloWorldGithubTest.AssemblyInfo.cs
+C:\Users\Brandon\Desktop\S\CodeDemo\HelloWorldGithubTest\HelloWorldGithubTest\obj\Debug\netcoreapp2.1\HelloWorldGithubTest.dll
+C:\Users\Brandon\Desktop\S\CodeDemo\HelloWorldGithubTest\HelloWorldGithubTest\obj\Debug\netcoreapp2.1\HelloWorldGithubTest.pdb
